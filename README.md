@@ -5,8 +5,8 @@
 - 🔭 Hoje eu trabalho com automatizações
 - 🌱 Atualmente eu estou estudando Typescript
 - 📫 Contate-me: mauro-telles@hotmail.com
-- 😄 Pronouns: ele/dele
-- 🖥️ Cursando **Sistemas de Informação**.
+- 😄 Pronomes: ele/dele
+- 🖥️ Cursando Sistemas de Informação
 
 ## 📊 GitHub Stats
 
