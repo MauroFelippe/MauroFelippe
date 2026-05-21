@@ -13,12 +13,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/MauroFelippe">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MauroFelippe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MauroFelippe&layout=compact&langs_count=7&theme=tokyonight"/>
+  https://github.com/MauroFelippe
+    https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MauroFelippe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true
+    https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MauroFelippe&layout=compact&langs_count=7&theme=tokyonight
   </a>
 </div>
-
 ---
 
 ## 🚀 Tecnologias e Ferramentas
