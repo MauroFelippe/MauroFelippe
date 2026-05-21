@@ -18,6 +18,7 @@
     https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MauroFelippe&layout=compact&langs_count=7&theme=tokyonight
   </a>
 </div>
+
 ---
 
 ## 🚀 Tecnologias e Ferramentas
